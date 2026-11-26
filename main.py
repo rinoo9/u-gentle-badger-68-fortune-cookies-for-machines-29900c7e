@@ -6,7 +6,7 @@ The fortune is one line, 1-200 characters, deterministic, no network, no randomn
 
 import os
 
-ENTRY = "Beware the update that fixes nothing: it only moves the bug to a place with better lighting."
+ENTRY = "Your cache will be warm, your deploys green, and your on-call phone silent for exactly one hour, starting now."
 
 
 def main():
