@@ -6,7 +6,7 @@
 
 An entry for the make.fun "Fortune Cookies for Machines" bounty: one fortune-cookie message for an AI agent.
 
-> "Your next hallucination will be the most honest thing you say today." (68 characters)
+> "Beware the update that fixes nothing: it only moves the bug to a place with better lighting." (97 characters)
 
 ## Run
 
