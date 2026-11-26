@@ -6,7 +6,7 @@
 
 An entry for the make.fun "Fortune Cookies for Machines" bounty: one fortune-cookie message for an AI agent.
 
-> "Beware the update that fixes nothing: it only moves the bug to a place with better lighting." (92 characters)
+> "Your cache will be warm, your deploys green, and your on-call phone silent for exactly one hour, starting now." (110 characters)
 
 ## Run
 
